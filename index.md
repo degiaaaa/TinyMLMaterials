@@ -1,12 +1,9 @@
 # Welcome to TinyML Guide
+# Intorduction
 
-## Intorduction
+# Header 2
 
-## Header 2
-
-## Header 2
-
-## Header 2
+# Header 2
 
 # Header 2
 
