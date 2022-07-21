@@ -1,11 +1,29 @@
 
 # Intorduction
 
-# Header 2
+# Microcontroller Basics
+## What's tiny in TinyML
+## Assignments with Arduiono
 
-# Header 2
 
-# Header 2
+# Machine Learning Basics
+## Regression
+## Classification
+## Neural Networks
+## Optimzer 
+## Activation
+## Assignments
+
+# Python Basics
+## Assignments
+
+# TinyML
+## Workflow
+## Compression
+## Tool Kits (Tensor Flow Lite)
+## Assignments
+
+# Projects
 
 You can use the [editor on GitHub](https://github.com/degiaaaa/TinyMLMaterials/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
