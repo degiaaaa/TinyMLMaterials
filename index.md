@@ -1,4 +1,4 @@
-# Welcome to TinyML Guide
+
 # Intorduction
 
 # Header 2
