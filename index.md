@@ -1,6 +1,6 @@
 ---
 title: Welcome to the TinyMl Guide
-layout: template
+theme: jekyll-theme-cayman
 filename: index
 --- 
 
