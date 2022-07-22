@@ -1,7 +1,7 @@
 ---
 title: Welcomte to the TinyML-Guide
 theme: jekyll-theme-cayman
-filename: index.md
+filename: howto.md
 --- 
 
 # Welcomte to the TinyML-Guide
