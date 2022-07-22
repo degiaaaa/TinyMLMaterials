@@ -1,6 +1,6 @@
 ---
 title: Our Story
-theme: jekyll-theme-cayman
+layout: template
 filename: story
 --- 
 

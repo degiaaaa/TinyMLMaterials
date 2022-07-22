@@ -1,6 +1,6 @@
 ---
 title: How To
-theme: jekyll-theme-cayman
+layout: template
 filename: howto
 --- 
 
