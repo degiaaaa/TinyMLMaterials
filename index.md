@@ -1,5 +1,5 @@
 ---
-title: pafatbn forever!
+title: Welcome to the TinyMl Guide
 layout: template
 filename: index
 --- 
