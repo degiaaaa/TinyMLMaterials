@@ -1,3 +1,8 @@
+---
+title: Welcomte to the TinyML-Guide
+theme: jekyll-theme-cayman
+filename: index.md
+--- 
 
 # Welcomte to the TinyML-Guide
 # Intorduction
